@@ -3,7 +3,8 @@
 ![Flutter logo](img/Flutter.jpg)
 
 Flutter UI design implementation repository for interesting UI Designs that
-are available in websites like [Dribbble](https://dribbble.com){:target="_blank"}.
+are available in websites like <a href="https://dribbble.com" target="_blank">Dribbble</a>
+.
 
 The challenge is to see if we can re create any design out there
 (including animations etc) using just Flutter. 
