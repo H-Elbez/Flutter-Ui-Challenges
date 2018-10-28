@@ -14,14 +14,14 @@ The final result (Without animation) :
 
 
 <div style="text-align:center">
-<img src="screenshots/Final_result.png" width="350">
+<img src="screenshots/Final_result1.png" width="700">
 </div>
 
 The final result (With animation) :
 
 
 <div style="text-align:center">
-<img src="screenshots/Final_result.png" width="350">
+<img src="screenshots/Final_result2.gif" width="350">
 </div>
 
 This work is a part of Flutter UI Challenge.
