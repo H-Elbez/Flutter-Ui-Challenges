@@ -1,0 +1,30 @@
+name: Flutter
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - assets/img/facebook.png
+  - assets/img/tweeter.png
+  - assets/img/google.png 
+  - assets/img/welcome.jpg 
+  - assets/img/spain.png 
+  - assets/img/uk.png  
+  fonts:
+    - family: wqy
+      fonts:
+          - asset: assets/fonts/wqy-microhei.ttc
