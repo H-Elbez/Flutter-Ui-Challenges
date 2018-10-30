@@ -16,3 +16,7 @@ The challenge is to see if we can re create any design out there
 
 
 If you have any interfaces to add, feel free to fire a pull request or contact me at : `elbez.hammouda@gmail.com`
+
+# License
+This repository is licensed under the [
+GNU GPL v3.0](LICENSE)
