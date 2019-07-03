@@ -30,7 +30,7 @@ This work is a part of Flutter UI Challenge.
 To use this code copy "LoginUI.dart" to your project folder and add this line to your code.
 
 ```Dart
-LoginUI(startColor: Color.fromRGBO(238, 140, 45, 1), endColor:Color.fromRGBO(238, 111, 136, 1),)
+LoginUI(startColor: Color.fromRGBO(238, 140, 45, 1), endColor:Color.fromRGBO(238, 111, 136, 1))
 ```
 
 For help getting started with Flutter, view the online
